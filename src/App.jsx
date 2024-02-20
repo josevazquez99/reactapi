@@ -1,4 +1,5 @@
 // App.js
+//json-server moto.json 
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import NavbarComponent from './components/NavBar';

@@ -1,7 +1,7 @@
 import axios from "axios";
 // npm install axios
 
-const url = "https://api-express-flame.vercel.app/motos";
+const url = "https://reactapi-two.vercel.app/motos";
 
 // para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una API de motos utilizando la librería Axios en JavaScript/Node.js.
 const getMotos = () => axios.get(url);

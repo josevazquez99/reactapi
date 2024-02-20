@@ -1,0 +1,32 @@
+{
+  "motos": [
+    {
+      "id": "1",
+      "marca": "Honda",
+      "modelo": "CBR600RR",
+      "anio": 2022,
+      "color": "rojo"
+    },
+    {
+      "id": "2",
+      "marca": "Yamaha",
+      "modelo": "YZF-R6",
+      "anio": 2021,
+      "color": "azul"
+    },
+    {
+      "id": "3",
+      "marca": "Kawasaki",
+      "modelo": "Ninja 400",
+      "anio": 2020,
+      "color": "verde"
+    },
+    {
+      "id": "0ccc",
+      "marca": "yamaha",
+      "modelo": "yamaha2",
+      "anio": 2000,
+      "color": "rojo"
+    }
+  ]
+}
